@@ -1,0 +1,472 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hungryeyez.com" resolutions="1x,2x" timestamp="1527192549927">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_c-master-_black_.css" crc="115710095" ref="feedback:the-fast-food-experience"/>
+    <file name="master_a-master.css" crc="33711345" ref="index:find-us"/>
+    <file name="feedback.css" crc="326717340" ref="feedback"/>
+    <file name="index.css" crc="450093163" ref="index"/>
+    <file name="the-fast-food-experience.css" crc="473750508" ref="the-fast-food-experience"/>
+    <file name="food-for-thought.css" crc="398243490" ref="food-for-thought"/>
+    <file name="jukebox.css" crc="87057897" ref="jukebox"/>
+    <file name="newsletter.css" crc="3873342439" ref="newsletter"/>
+    <file name="find-us.css" crc="4032916045" ref="find-us"/>
+    <file name="buffet.css" crc="521176066" ref="buffet"/>
+    <file name="menu.css" crc="330956296" ref="menu"/>
+  </folder>
+  <folder name="fonts">
+    <file name="cheap-motel-webfont.woff" crc="248376212"/>
+    <file name="cheap-motel-webfont.eot" crc="170226993"/>
+    <file name="cheap-motel-webfont.svg" crc="3863681639"/>
+  </folder>
+  <folder name="assets">
+    <file name="susan-bordo--unberable-weight-excerpt.pdf" crc="180980990" seo="true" mt="1510635063000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
+    <file name="museutils.js" crc="3803043152" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
+    <file name="whatinput.js" crc="86476730" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:find-us:the-fast-food-experience:feedback"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:newsletter:find-us:the-fast-food-experience:food-for-thought:feedback"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
+    <file name="require.js" crc="4157109226" ref="index:menu:buffet:newsletter:find-us:the-fast-food-experience:food-for-thought:jukebox:feedback"/>
+    <file name="webpro.js" crc="242022427" ref="food-for-thought"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="food-for-thought"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="food-for-thought"/>
+    <file name="touchswipe.js" crc="4066113679" ref="food-for-thought"/>
+  </folder>
+  <folder name="images">
+    <file name="tumblr_static_31.jpg" crc="4098069050" ref="index:find-us">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u198.png" crc="206634805" ref="index:find-us"/>
+    <file name="u198_2x.png" crc="229395010" ref="index:find-us"/>
+    <file name="u198-r.png" crc="4050881960" ref="index:find-us"/>
+    <file name="u198-r_2x.png" crc="407181091" ref="index:find-us"/>
+    <file name="u198-m.png" crc="4242940461" ref="index:find-us"/>
+    <file name="u198-m_2x.png" crc="4218351141" ref="index:find-us"/>
+    <file name="staring down.png" crc="314342195" seo="true" ref="index:find-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="find-us" alt=""/>
+    </file>
+    <file name="staring down_2x.png" crc="3881373117" seo="true" ref="index:find-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="find-us" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:newsletter:the-fast-food-experience:food-for-thought">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="the-fast-food-experience" alt=""/>
+      <caption webpage="the-fast-food-experience" alt=""/>
+      <caption webpage="the-fast-food-experience" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="food-for-thought" alt=""/>
+      <caption webpage="food-for-thought" alt=""/>
+      <caption webpage="food-for-thought" alt=""/>
+    </file>
+    <file name="u572.png" crc="196161490" ref="index"/>
+    <file name="u572_2x.png" crc="293971765" ref="index"/>
+    <file name="u572-r.png" crc="3904084478" ref="index"/>
+    <file name="u572-r_2x.png" crc="4288200222" ref="index"/>
+    <file name="u572-m.png" crc="273442156" ref="index"/>
+    <file name="u572-m_2x.png" crc="77131836" ref="index"/>
+    <file name="u694.png" crc="414851666" ref="index"/>
+    <file name="u694_2x.png" crc="4051059176" ref="index"/>
+    <file name="u694-r.png" crc="4035406703" ref="index"/>
+    <file name="u694-r_2x.png" crc="3958170702" ref="index"/>
+    <file name="u694-m.png" crc="3827656626" ref="index"/>
+    <file name="u694-m_2x.png" crc="402610705" ref="index"/>
+    <file name="u704.png" crc="411716172" ref="index"/>
+    <file name="u704_2x.png" crc="173212900" ref="index"/>
+    <file name="u704-r.png" crc="3998070330" ref="index"/>
+    <file name="u704-r_2x.png" crc="4030277525" ref="index"/>
+    <file name="u704-m.png" crc="3963568213" ref="index"/>
+    <file name="u704-m_2x.png" crc="139460250" ref="index"/>
+    <file name="u714.png" crc="345861336" ref="index"/>
+    <file name="u714_2x.png" crc="3858860743" ref="index"/>
+    <file name="u714-r.png" crc="238961400" ref="index"/>
+    <file name="u714-r_2x.png" crc="4027341010" ref="index"/>
+    <file name="u714-m.png" crc="4055941374" ref="index"/>
+    <file name="u714-m_2x.png" crc="142804346" ref="index"/>
+    <file name="u781.png" crc="78059683" ref="index"/>
+    <file name="u781_2x.png" crc="3888766378" ref="index"/>
+    <file name="u781-r.png" crc="3926183661" ref="index"/>
+    <file name="u781-r_2x.png" crc="529761954" ref="index"/>
+    <file name="u781-m.png" crc="499847488" ref="index"/>
+    <file name="u781-m_2x.png" crc="4056918367" ref="index"/>
+    <file name="u823.png" crc="153451662" ref="index"/>
+    <file name="u823_2x.png" crc="413714114" ref="index"/>
+    <file name="u823-r.png" crc="166278083" ref="index"/>
+    <file name="u823-r_2x.png" crc="4279582756" ref="index"/>
+    <file name="u823-m.png" crc="4076619027" ref="index"/>
+    <file name="u823-m_2x.png" crc="536013334" ref="index"/>
+    <file name="u833-6.png" crc="3846605044" ref="index"/>
+    <file name="u833-6_2x.png" crc="434648443" ref="index"/>
+    <file name="u973.png" crc="256718781" ref="index"/>
+    <file name="u973_2x.png" crc="98678092" ref="index"/>
+    <file name="u973-r.png" crc="440956028" ref="index"/>
+    <file name="u973-r_2x.png" crc="275582722" ref="index"/>
+    <file name="u973-m.png" crc="448044653" ref="index"/>
+    <file name="u973-m_2x.png" crc="3953054365" ref="index"/>
+    <file name="u980.png" crc="141865073" ref="index"/>
+    <file name="u980_2x.png" crc="392350663" ref="index"/>
+    <file name="u980-r.png" crc="157502873" ref="index"/>
+    <file name="u980-r_2x.png" crc="4264700756" ref="index"/>
+    <file name="u980-m.png" crc="419360253" ref="index"/>
+    <file name="u980-m_2x.png" crc="3962582064" ref="index"/>
+    <file name="darkmustard-u1037.png" crc="497083411" ref="index"/>
+    <file name="mustardblue.png" crc="66313428" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3528.png" crc="119282373" ref="index"/>
+    <file name="u3528_2x.png" crc="486576089" ref="index"/>
+    <file name="u3528-r.png" crc="443206788" ref="index"/>
+    <file name="u3528-r_2x.png" crc="57650910" ref="index"/>
+    <file name="u3528-m.png" crc="4173289973" ref="index"/>
+    <file name="u3528-m_2x.png" crc="362650305" ref="index"/>
+    <file name="u3532.png" crc="349690825" ref="index"/>
+    <file name="u3532_2x.png" crc="3925894845" ref="index"/>
+    <file name="u3532-r.png" crc="3812278831" ref="index"/>
+    <file name="u3532-r_2x.png" crc="4255638463" ref="index"/>
+    <file name="u3532-m.png" crc="3943437026" ref="index"/>
+    <file name="u3532-m_2x.png" crc="128625971" ref="index"/>
+    <file name="5a08e420ab4e0817872142.gif" crc="92118983" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="u9743.png" crc="4278780879" ref="menu"/>
+    <file name="u9743_2x.png" crc="4188527402" ref="menu"/>
+    <file name="u9743-r.png" crc="447782486" ref="menu"/>
+    <file name="u9743-r_2x.png" crc="453157214" ref="menu"/>
+    <file name="u9743-m.png" crc="4248286626" ref="menu"/>
+    <file name="u9743-m_2x.png" crc="4283272295" ref="menu"/>
+    <file name="u9745-9.png" crc="3762325086" ref="menu"/>
+    <file name="u9745-9_2x.png" crc="373174186" ref="menu"/>
+    <file name="u9746-4.png" crc="4237265268" ref="menu"/>
+    <file name="u9746-4_2x.png" crc="2626835" ref="menu"/>
+    <file name="u9747-5.png" crc="120499732" ref="menu"/>
+    <file name="u9747-5_2x.png" crc="4191757479" ref="menu"/>
+    <file name="menugirlbedless.png" crc="4193366004" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="search.png" crc="238426711" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="search_2x.png" crc="287136388" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="7145e37a88b8dcc7130e481a88f972e6--vintage-graphic-vintage-posters.jpg" crc="163242844" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="7145e37a88b8dcc7130e481a88f972e6--vintage-graphic-vintage-posters_2x.jpg" crc="4013286084" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="caddyshack2.jpg" crc="4137260337" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="caddyshack2_2x.jpg" crc="360652706" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="mv5bmje5ndc0nje2nf5bml5banbnxkftztcwmte4mti3na@@_v1_sy1000_cr0,0,663,1000_al_.jpg" crc="145903485" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="mv5bmje5ndc0nje2nf5bml5banbnxkftztcwmte4mti3na@@_v1_sy1000_cr0,0,663,1000_al__2x.jpg" crc="4091786410" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="20f318df627fdae0aac66fcaac359d4e--mouths-lips.jpg" crc="131798792" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="20f318df627fdae0aac66fcaac359d4e--mouths-lips_2x.jpg" crc="155886999" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="images-w1400.jpg" crc="3985714186" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="images-w1400_2x.jpg" crc="83169070" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="raw.jpg" crc="100257185" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="raw_2x.jpg" crc="330550311" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="unknown.jpg" crc="476927981" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="yknhi1uxrh9mwufvcusw.jpg" crc="24066146" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="poqojcbypheoghht98zj.jpg" crc="72103471" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="to-die-for.jpg" crc="3996022184" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="to-die-for_2x.jpg" crc="340118154" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="rqpecpfzz8zgsg9q9jo1.jpg" crc="438711208" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="deadly-blessing.jpg" crc="82363729" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="deadly-blessing_2x.jpg" crc="4143351339" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="showgirls.jpg" crc="172868917" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="showgirls_2x.jpg" crc="4165119262" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="romance_and_cigarettes-6-.jpg" crc="280943062" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="romance_and_cigarettes-6-_2x.jpg" crc="4263250270" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="pulp-fiction.jpg" crc="4234698134" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="pulp-fiction_2x.jpg" crc="3885881965" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="body-double-1984.jpg" crc="320985524" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="body-double-1984_2x.jpg" crc="284514115" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="almost-famous.jpg" crc="3879306827" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="almost-famous_2x.jpg" crc="4138304753" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="galaxina.jpg" crc="480057084" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="galaxina_2x.jpg" crc="4065251581" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="american-beauty-movie-poster.jpg" crc="93387056" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="american-beauty-movie-poster_2x.jpg" crc="4079780107" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="barbarella.jpg" crc="353652424" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="barbarella_2x.jpg" crc="3835808100" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="untitled-2629x603.png" crc="115599690" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="untitled-2.png" crc="4156553206" seo="true" ref="menu:buffet">
+      <caption webpage="buffet" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="91mq84h1dql_sl1500_.jpg" crc="494790949" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="91mq84h1dql_sl1500__2x.jpg" crc="376645820" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="1423351995661.jpg" crc="3993305305" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="1423351995661_2x.jpg" crc="3967012307" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="blue-velvet.jpg" crc="4212664297" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="blue-velvet_2x.jpg" crc="4166042050" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="ce6.jpg" crc="3940359778" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="ce6_2x.jpg" crc="3797566309" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="mpw-34473.jpg" crc="4039857178" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="mpw-34473_2x.jpg" crc="343071466" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="sexiest-movies-posters-of-all-time1-8.jpg" crc="3842560356" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="sexiest-movies-posters-of-all-time1-8_2x.jpg" crc="150022385" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="untitled-2200x235.png" crc="296073286" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="untitled-2200x235_2x.png" crc="479849836" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="sexy-poster.jpg" crc="4077686796" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="sexy-poster_2x.jpg" crc="355315664" seo="true" ref="menu">
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="browserpreview_tmp-1.gif" crc="4134966951" seo="true" ref="buffet">
+      <caption webpage="buffet" alt=""/>
+    </file>
+    <file name="lollipop_png_by_dinna96-d4mchcu.png" crc="308423003" seo="true" ref="buffet">
+      <caption webpage="buffet" alt=""/>
+    </file>
+    <file name="pngpix-com-lollipop-png-transparent-image-500x441.png" crc="494199002" seo="true" ref="buffet">
+      <caption webpage="buffet" alt=""/>
+    </file>
+    <file name="u11120.png" crc="475692355" ref="buffet"/>
+    <file name="u11120_2x.png" crc="34501282" ref="buffet"/>
+    <file name="u11120-r.png" crc="3940776012" ref="buffet"/>
+    <file name="u11120-r_2x.png" crc="4255467123" ref="buffet"/>
+    <file name="u11122.png" crc="4163344840" ref="buffet"/>
+    <file name="u11122_2x.png" crc="150505854" ref="buffet"/>
+    <file name="u11122-r.png" crc="260903323" ref="buffet"/>
+    <file name="u11122-r_2x.png" crc="4128528954" ref="buffet"/>
+    <file name="u11124.png" crc="484079722" ref="buffet"/>
+    <file name="u11124_2x.png" crc="333245698" ref="buffet"/>
+    <file name="u11124-r.png" crc="4167655117" ref="buffet"/>
+    <file name="u11124-r_2x.png" crc="4074343406" ref="buffet"/>
+    <file name="untitled-2190x426.png" crc="3938897450" seo="true" ref="buffet">
+      <caption webpage="buffet" alt=""/>
+      <caption webpage="buffet" alt=""/>
+    </file>
+    <file name="untitled-2190x426_2x.png" crc="268497286" seo="true" ref="buffet">
+      <caption webpage="buffet" alt=""/>
+      <caption webpage="buffet" alt=""/>
+    </file>
+    <file name="tumblr_static_tumblr_static__640.gif" crc="3821993748" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="giphy-1.gif" crc="3873911103" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="giphy-12.gif" crc="536244477" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="giphy-1_2x.gif" crc="536244477" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="tumblr_n31sy8dvaq1t3gb1xo1_400.gif" crc="4227970080" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="computer-mouse-arrow-clipart-4tbg59gtg.png" crc="528992752" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="computer-mouse-arrow-clipart-4tbg59gtg_2x.png" crc="473637966" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="source.gif" crc="3898782106" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="source-1.gif" crc="4110713686" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="tumblr_mxnwsidf521rd9jm5o1_250.gif" crc="364653417" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="tumblr_n1g5u4k9em1svwlszo1_500.gif" crc="3780841673" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="everything-is-so-dull.gif" crc="4198297935" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="original.gif" crc="461197341" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="tumblr_static_love_this.gif" crc="3603675" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="tumblr_oxu4lqltwd1vxu8n6o1_500.gif" crc="54976537" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="tumblr_n600zecdmn1sflac9o1_500.gif" crc="129881810" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="tumblr_n600zecdmn1sflac9o1_500_2x.gif" crc="129881810" seo="true" ref="newsletter">
+      <caption webpage="newsletter" alt=""/>
+    </file>
+    <file name="tumblr_lewes2oj3s1qcoypuo1_500.gif" crc="3861755765" ref="the-fast-food-experience">
+      <caption webpage="the-fast-food-experience" alt=""/>
+    </file>
+    <file name="giphy.gif" crc="4097094599" seo="true" ref="food-for-thought">
+      <caption webpage="food-for-thought" alt=""/>
+    </file>
+    <file name="tumblr_oz3zh0milo1wyeil0o1_500.gif" crc="3896833416" seo="true" ref="jukebox">
+      <caption webpage="jukebox" alt=""/>
+    </file>
+    <file name="tumblr_otktu5y19v1vtnv5po1_500.gif" crc="91105209" seo="true" ref="jukebox">
+      <caption webpage="jukebox" alt=""/>
+    </file>
+    <file name="tumblr_oviy5nkdvx1qhrm3lo1_500.gif" crc="435100961" seo="true" ref="jukebox">
+      <caption webpage="jukebox" alt=""/>
+    </file>
+    <file name="tumblr_oyae5oxtxg1qhrm3lo1_540.gif" crc="4009153761" seo="true" ref="jukebox">
+      <caption webpage="jukebox" alt=""/>
+    </file>
+    <file name="giphy-1 2.gif" crc="4206695387" ref="feedback">
+      <caption webpage="feedback" alt=""/>
+    </file>
+    <file name="u11498-4.png" crc="4158592290" ref="feedback"/>
+    <file name="u11498-4_2x.png" crc="4145802249" ref="feedback"/>
+  </folder>
+  <file name="index.html" crc="271848550" seo="true" mt="1527186551213" redirect="true"/>
+  <file name="menu.html" crc="4101071842" seo="true" mt="1516602540891" redirect="true"/>
+  <file name="buffet.html" crc="4169240197" seo="true" mt="1516602540897" redirect="true"/>
+  <file name="newsletter.html" crc="4188050494" seo="true" mt="1527186551131" redirect="true"/>
+  <file name="find-us.html" crc="336354848" seo="true" mt="1527186551213" redirect="true"/>
+  <file name="the-fast-food-experience.html" crc="223428636" seo="true" mt="1527186657981" redirect="true"/>
+  <file name="food-for-thought.html" crc="106341718" seo="true" mt="1527189161312" redirect="true"/>
+  <file name="jukebox.html" crc="408678486" seo="true" mt="1510640576397" redirect="true"/>
+  <file name="feedback.html" crc="87218131" seo="true" mt="1527186551408" redirect="true"/>
+</manifest>
