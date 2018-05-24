@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sabrinaashleigh.github.io" resolutions="1x,2x" timestamp="1527193346039">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sabrinaashleigh.github.io" resolutions="1x,2x" timestamp="1527194496348">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_c-master-_black_.css" crc="115710095" ref="feedback:the-fast-food-experience"/>
-    <file name="master_a-master.css" crc="500613886" ref="index:find-us"/>
+    <file name="master_a-master.css" crc="33711345" ref="index:find-us"/>
     <file name="feedback.css" crc="326717340" ref="feedback"/>
     <file name="index.css" crc="450093163" ref="index"/>
     <file name="the-fast-food-experience.css" crc="473750508" ref="the-fast-food-experience"/>
@@ -40,7 +40,7 @@
     <file name="tumblr_static_31.jpg" crc="4098069050" ref="index:find-us">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u198.png" crc="3988890789" ref="index:find-us"/>
+    <file name="u198.png" crc="206634805" ref="index:find-us"/>
     <file name="u198_2x.png" crc="229395010" ref="index:find-us"/>
     <file name="u198-r.png" crc="4050881960" ref="index:find-us"/>
     <file name="u198-r_2x.png" crc="407181091" ref="index:find-us"/>
@@ -460,11 +460,11 @@
     <file name="u11498-4.png" crc="4158592290" ref="feedback"/>
     <file name="u11498-4_2x.png" crc="4145802249" ref="feedback"/>
   </folder>
-  <file name="index.html" crc="4225209143" seo="true" mt="1527186551213" redirect="true"/>
+  <file name="index.html" crc="271848550" seo="true" mt="1527186551213" redirect="true"/>
   <file name="menu.html" crc="4101071842" seo="true" mt="1516602540891" redirect="true"/>
   <file name="buffet.html" crc="4169240197" seo="true" mt="1516602540897" redirect="true"/>
   <file name="newsletter.html" crc="4188050494" seo="true" mt="1527193232007" redirect="true"/>
-  <file name="find-us.html" crc="3961559977" seo="true" mt="1527186551213" redirect="true"/>
+  <file name="find-us.html" crc="336354848" seo="true" mt="1527186551213" redirect="true"/>
   <file name="the-fast-food-experience.html" crc="223428636" seo="true" mt="1527186657981" redirect="true"/>
   <file name="food-for-thought.html" crc="106341718" seo="true" mt="1527189161312" redirect="true"/>
   <file name="jukebox.html" crc="408678486" seo="true" mt="1510640576397" redirect="true"/>
